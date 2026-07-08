@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "minecraft": "1.21.1",
+  "fabric": "0.16.10",
+  "mods": [
+    "fabric-api-0.115.6.jar",
+    "sodium.jar",
+    "lithium.jar",
+    "ferritecore.jar",
+    "iris.jar",
+    "modmenu.jar"
+  ]
+}
